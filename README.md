@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2> Hi there, I'm Sherif Abdullah! 👋</h2>
+<img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
+<p>Senior Web Developer Enginner
+ <img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"></br>Founder & Mentor at <a href="https://geeks--hub.herokuapp.com/">Geekshub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</p>
 
-<!--
-**sherif-abdallah/sherif-abdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/_sherifabdullah)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/sherif-abdullah-b94385236/)
+[![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/sheerif.abdullah/)
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I speak Python, I am a Python Champion, Web Framework Developer, Senior Web Software Engineer, Speaker, Trainer, and technology enthusiast.**
+
+I love sharing my knowledge and experience, contribute to open source projects related to Python and Web, and sharing PoCs & problems as code.
+
+- 🎯 **I’m currently focusing on**: [Geekshub](https://github.com/sherif-abdallah/Geekshub) and [Watch Now](https://github.com/sherif-abdallah/Watch-Now), ⭐️ star the projects if you like it 🤩.
+
+- 🔭 **Also, I’m working on**: Something cool related to CI/CD configurations automation and soon will publish it 😉.
+
+- 💬 **Ask me about**: Python, Backend, Django, JavaScript, Frameworks, RESTful APIs, Architecture, Design Patterns, Testing, and Applications Security.
+
+- 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
+
+- ⚡ **Fun fact**: I love 🍎 and 🧑🏻‍💻.
+
+<hr/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+
+⭐️ Thank you ⭐️
