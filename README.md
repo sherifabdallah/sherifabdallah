@@ -34,9 +34,7 @@ I love sharing my knowledge and experience, contribute to open source projects r
 
 <hr/>
 
-<a href="#image-readme">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-</a> 
+<a href="#image-readme"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></a> 
 <em>I love connecting with different people so if you want to say hi, 
 
  I'll be happy to meet you more! :)</em>
