@@ -1,6 +1,8 @@
 <h2> Hi there, I'm Sherif Abdullah! 👋</h2>
-<img align='right' href="#" src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
-<p>Senior Backend Developer
+<a href="#">
+<img align='right'  src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
+</a>
+ <p>Senior Backend Developer
  <img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"></br>Founder & Mentor at <a href="https://geeks--hub.herokuapp.com/">Geekshub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
