@@ -1,14 +1,14 @@
 
 <h2> Hi there, I'm Sherif Abdullah! 👋</h2>
-<a >
+<a href="#image-readme">
 <img align='right'  src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
 </a>
  <p>Senior Backend Developer
- <a href="#image-readme" style="cursor: default;">
+ <a href="#image-readme">
  <img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
  </a>
   </br>Founder & Mentor at <a href="https://geeks--hub.herokuapp.com/">Geekshub</a>
-  <a href="#image-readme" style="cursor: default;">
+  <a href="#image-readme">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  </a>
 </p>
@@ -17,7 +17,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/sherif-abdallah/)
 [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/sheerif.abdullah/)
 
-### <a href="#image-readme" style="cursor: default;"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> A little more about me...
+### <a href="#image-readme"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> A little more about me...
 
 **I speak Python, I am a Python Champion, Web Framework Developer, Senior Web Software Engineer, Speaker, Trainer, and technology enthusiast.**
 
@@ -35,7 +35,7 @@ I love sharing my knowledge and experience, contribute to open source projects r
 
 <hr/>
 
-<a href="#image-readme" style="cursor: default;"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></a> 
+<a href="#image-readme"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></a> 
 <em>I love connecting with different people so if you want to say hi, 
 
  I'll be happy to meet you more! :)</em>
