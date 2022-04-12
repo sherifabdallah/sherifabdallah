@@ -7,7 +7,7 @@
  <a href="#image-readme">
  <img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
  </a>
-  </br>Founder & Mentor at <a href="http://geekshub.pythonanywhere.com/">Geekshub</a>
+  </br>Founder & Mentor at <a href="https://geekshub.pythonanywhere.com/">Geekshub</a>
   <a href="#image-readme">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  </a>
