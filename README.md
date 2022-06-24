@@ -1,6 +1,6 @@
 
 <h2> Hi there, I'm Sherif Abdullah! 👋</h2>
-<a href="#">
+<a >
 <img align='right'  src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
 </a>
  <p>Senior Backend Developer
