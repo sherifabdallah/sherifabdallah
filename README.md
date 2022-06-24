@@ -1,14 +1,14 @@
 
 <h2> Hi there, I'm Sherif Abdullah! 👋</h2>
-<a href="#image-readme">
+<a href="#">
 <img align='right'  src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
 </a>
  <p>Senior Backend Developer
- <a href="#image-readme">
+ <a href="#">
  <img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
  </a>
   </br>Founder & Mentor at <a href="https://geekshub.pythonanywhere.com/">Geekshub</a>
-  <a href="#image-readme">
+  <a href="#">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  </a>
 </p>
