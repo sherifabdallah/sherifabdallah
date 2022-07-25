@@ -7,7 +7,7 @@
  <a href="#">
  <img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
  </a>
-  </br>Founder & Mentor at <a href="https://geekshub.pythonanywhere.com/">Geekshub</a>
+  </br>Founder & Mentor at <a href="http://geekshub.rf.gd/">Geekshub</a>
   <a href="#">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  </a>
@@ -23,7 +23,7 @@
 
 I love sharing my knowledge and experience, contribute to open source projects related to Python and Web, and sharing PoCs & problems as code.
 
-- 🎯 **I’m currently focusing on**: [Geekshub](https://github.com/sherif-abdallah/Geekshub) and [Watch Now](https://github.com/sherif-abdallah/Watch-Now), ⭐️ star the projects if you like it 🤩.
+- 🎯 **I’m currently focusing on**: [Geekshub](http://geekshub.rf.gd/) and [Watch Now](https://github.com/sherif-abdallah/Watch-Now), ⭐️ star the projects if you like it 🤩.
 
 - 🔭 **Also, I’m working on**: Something cool related to CI/CD configurations automation and soon will publish it 😉.
 
