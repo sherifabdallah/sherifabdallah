@@ -24,7 +24,7 @@
 
 I love sharing my knowledge and experience, contribute to open source projects related to Python and Web, and sharing PoCs & problems as code.
 
-- 🎯 **I’m currently focusing on**: [Geekshub](https://github.com/geekshubapp/Geekshub) and [Egyflix](https://github.com/sherif-abdallah/Egyflix), ⭐️ star the projects if you like it 🤩.
+- 🎯 **I’m currently focusing on**: [Geekshub](https://github.com/sherif-abdallah/Geekshub) and [Egyflix](https://github.com/sherif-abdallah/Egyflix), ⭐️ star the projects if you like it 🤩.
 
 - 🔭 **Also, I’m working on**: Something cool related to CI/CD configurations automation and soon will publish it 😉.
 
