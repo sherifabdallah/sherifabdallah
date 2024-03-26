@@ -6,12 +6,10 @@
     <img src="https://komarev.com/ghpvc/?username=sherif-abdallah&label=Profile%20views&color=0e75b6&style=flat" alt="sherif-abdallah" /> 
 </p>
 
-- 🔭 I’m currently working on [Uber-Eats-Clone](https://github.com/sherifabdallah/Uber-Eats-Clone)
 - 🌱 I’m currently learning **Node.js**
 - 👨‍💻 All of my projects are available at [sherifabdullah.vercel.app](https://sherifabdullah.vercel.app/)
 - 💬 Ask me about **Python, Django, React, JavaScript, etc.**
 - 📫 How to reach me: [sherif.abdullah.dev@gmail.com](mailto:sherif.abdullah.dev@gmail.com)
-- ⚡ Fun fact: My biggest role model is Mark Zuckerberg
 
 ### Connect with me:
 <p align="left">
