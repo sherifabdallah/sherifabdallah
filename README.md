@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sherif</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 <p align="left"> 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **.NET**
 - 👨‍💻 All of my projects are available at [sherifabdullah.vercel.app](https://sherifabdullah.vercel.app/)
-- 💬 Ask me about **Python, Django, React, C#, .NET Core, JavaScript, etc.**
+- 💬 Ask me about **Python, Django, React, JavaScript,C#, .NET Core, etc.**
 - 📫 How to reach me: [sherif.abdullah.dev@gmail.com](mailto:sherif.abdullah.dev@gmail.com)
 
 ### Connect with me:
