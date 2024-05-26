@@ -20,6 +20,7 @@
 
 ### Languages and Tools:
 <p align="left"> 
+    <center>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/dotnet.png" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/csharp.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/elasticsearch.svg" width="40" height="40"/> </span>
@@ -38,9 +39,9 @@
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/sass.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/python.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/django.svg" width="40" height="40"/> </span>
-    <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/cpp.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/git.svg" width="40" height="40"/> </span>
+    </center>
 
     
 </p>
