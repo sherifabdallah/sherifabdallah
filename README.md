@@ -36,10 +36,8 @@
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/html.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/css.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/bootstrap.svg" width="40" height="40"/> </span>
-    <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/sass.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/python.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/django.svg" width="40" height="40"/> </span>
-    <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/cpp.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/git.svg" width="40" height="40"/> </span>
     </center>
 
