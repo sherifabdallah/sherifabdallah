@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Go**
 - 👨‍💻 All of my projects are available at [sherifabdullah.vercel.app](https://sherifabdullah.vercel.app/)
-- 💬 Ask me about **.NET Core, Python, Django, React, JavaScript, etc.**
+- 💬 Ask me about **.NET Core, Microservices, Python, Django, React, JavaScript, etc.**
 - 📫 How to reach me: [sherif.abdullah.dev@gmail.com](mailto:sherif.abdullah.dev@gmail.com)
 
 ### Connect with me:
