@@ -26,6 +26,8 @@
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/masstransit.png" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/rabbitmq.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/blazor.svg" width="40" height="40"/> </span>
+    <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/keycloak.svg" width="40" height="40"/> </span>
+    <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/openid.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/docker.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/mysql.svg" width="40" height="40"/> </span>
     <span  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sherifabdallah/sherif-abdallah/main/icons/react.svg" width="40" height="40"/> </span>
