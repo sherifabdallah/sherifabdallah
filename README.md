@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Go**
 - 👨‍💻 All of my projects are available at [sherifabdullah.vercel.app](https://sherifabdullah.vercel.app/)
 - 💬 Ask me about **.NET Core, Microservices, Python, Django, React, JavaScript, etc.**
-- 📫 How to reach me: [sherif.abdullah.dev@gmail.com](mailto:sherif.abdullah.dev@gmail.com)
+- 📫 How to reach me: [sherif.abdullah@vertowave.com](mailto:sherif.abdullah@vertowave.com)
 
 ### Connect with me:
 <p align="left">
