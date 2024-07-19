@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=sherif-abdallah&label=Profile%20views&color=0e75b6&style=flat" alt="sherif-abdallah" /> 
 </p>
 
-- 🌱 I’m currently learning **Go & Computer Networks & AI**
+- 🌱 I’m currently learning **DSA & Computer Networks & ML & Next.js & Go**
 - 👨‍💻 All of my projects are available at [sherifabdullah.vercel.app](https://sherifabdullah.vercel.app/)
 - 💬 Ask me about **.NET Core, Blazor, Microservices, Python, Django, React, JavaScript, etc.**
 - 📫 How to reach me: [sherif.abdullah@vertowave.com](mailto:sherif.abdullah@vertowave.com)
